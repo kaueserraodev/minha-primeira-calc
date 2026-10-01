@@ -1,4 +1,4 @@
-# 🧮 Minha Primeira Calculdora
+# 🧮 Minha Primeira Calculadora
 
 Uma calculadora web desenvolvida com HTML5, CSS3 e JavaScript, criada com o objetivo de praticar conceitos fundamentais de desenvolvimento web e lógica de programação.
 
