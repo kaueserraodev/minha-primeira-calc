@@ -43,8 +43,8 @@ calculadora/
 │
 ├── index.html
 │
-├── css/style.css
+├── css/
 │   └── style.css
 │
-└── JavaScript/
+└── JS/
     └── script.js
